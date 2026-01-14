@@ -1,1 +1,3 @@
-# quickfix-mobile-service-platform-42188
+# Project Repository
+
+This is the initial README file for the project.
